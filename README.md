@@ -14,3 +14,7 @@
 12. Test reuslts are displayed if any errors debugg the code and fix bugs. <br>
 13. Then re run the unit test.<br>
 14. If everything works then the test case is passed.<br>
+
+
+## Test Case (about sample Project)<br>
+The purpose of the project is to convert temperatures from Celsius to Fahrenheit. When we build a project, we'll include a temperature class and the desired methods for calculating various temperatures. We need to create a new unit unit testing project and add a reference the project in the dependencies. Then we must add a particular code from the models to the test file and run the test files using the test explorer.
