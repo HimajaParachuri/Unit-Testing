@@ -18,3 +18,6 @@
 
 ## Test Case (about sample Project)<br>
 The purpose of the project is to convert temperatures from Celsius to Fahrenheit. When we build a project, we'll include a temperature class and the desired methods for calculating various temperatures. We need to create a new unit unit testing project and add a reference the project in the dependencies. Then we must add a particular code from the models to the test file and run the test files using the test explorer.
+
+## Expected Result <br>
+When we run the test case file in the test explorer and the test fails during execution, there should be certain issues that we need to fix before rerunning the test case file. If it succeeds, the unit test project is working.
