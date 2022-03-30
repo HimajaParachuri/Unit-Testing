@@ -1,0 +1,39 @@
+C:\Users\S542391\Desktop\Sample project\Sample project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\S542391\Desktop\Sample project\Sample project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\S542391\Desktop\Sample project\Sample project\bin\Debug\netcoreapp3.1\Sample project.exe
+C:\Users\S542391\Desktop\Sample project\Sample project\bin\Debug\netcoreapp3.1\Sample project.deps.json
+C:\Users\S542391\Desktop\Sample project\Sample project\bin\Debug\netcoreapp3.1\Sample project.runtimeconfig.json
+C:\Users\S542391\Desktop\Sample project\Sample project\bin\Debug\netcoreapp3.1\Sample project.runtimeconfig.dev.json
+C:\Users\S542391\Desktop\Sample project\Sample project\bin\Debug\netcoreapp3.1\Sample project.dll
+C:\Users\S542391\Desktop\Sample project\Sample project\bin\Debug\netcoreapp3.1\Sample project.pdb
+C:\Users\S542391\Desktop\Sample project\Sample project\bin\Debug\netcoreapp3.1\Sample project.Views.dll
+C:\Users\S542391\Desktop\Sample project\Sample project\bin\Debug\netcoreapp3.1\Sample project.Views.pdb
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.csproj.AssemblyReference.cache
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.AssemblyInfoInputs.cache
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.AssemblyInfo.cs
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.csproj.CoreCompileInputs.cache
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.RazorAssemblyInfo.cache
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.RazorAssemblyInfo.cs
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\staticwebassets\Sample project.StaticWebAssets.Manifest.cache
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\staticwebassets\Sample project.StaticWebAssets.xml
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Sample project.styles.css
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.TagHelpers.input.cache
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.TagHelpers.output.cache
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.RazorCoreGenerate.cache
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Razor\Pages\Temperature.cshtml.g.cs
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.RazorTargetAssemblyInfo.cache
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.RazorTargetAssemblyInfo.cs
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.Views.pdb
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.dll
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.pdb
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.genruntimeconfig.cache
+C:\Users\S542391\Desktop\Sample project\Sample project\obj\Debug\netcoreapp3.1\Sample project.csproj.CopyComplete
